@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Новости 76</string>
+    <string name="check_internet_connection_message">Проверьте интернет соединение</string>
+</resources>
